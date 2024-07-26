@@ -1,6 +1,6 @@
 # Shashank's Portfolio
 
-#[Project 1: Resume Categorization]
+# [Project 1: Resume Categorization]
 
 This Project categorizes resume into different categpries based on the skills of the candidate
 A pratical NLP Project which can be used to Categorize Resume
